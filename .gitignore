@@ -1,0 +1,10 @@
+npm-debug.log
+.idea/
+node_modules
+client/dist/
+bundle.js
+*/dist
+dist/
+.DS_Store
+*/.DS_Store
+report/
